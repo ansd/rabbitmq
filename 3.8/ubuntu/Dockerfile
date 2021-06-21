@@ -49,6 +49,7 @@ RUN set -eux; \
 		ca-certificates \
 		dpkg-dev \
 		gcc \
+		g++ \
 		gnupg \
 		libncurses5-dev \
 		make \
